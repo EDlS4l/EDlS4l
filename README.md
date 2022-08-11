@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#,SQL,Git Bash
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate with Snoop Dogg 🌱🌱🌱
-- 📫 Hmu 👋
+- 📫 Teaching in Careeria
 
 <!---
 EDlS4l/EDlS4l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
